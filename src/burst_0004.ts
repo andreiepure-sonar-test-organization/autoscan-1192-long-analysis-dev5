@@ -91,3 +91,5 @@ export function buildFixture1204(seed: number): FixtureSummary1204 {
         accepted,
     };
 }
+
+// AUTOSCAN-1192 Dev5 repeat burst_0004 2026-11-12.
